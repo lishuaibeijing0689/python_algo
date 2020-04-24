@@ -1,0 +1,1841 @@
+206.217.134.0/23	ColoCrossing United States
+54.231.253.0/24	aws
+109.73.64.0/20	Redstation
+88.202.224.0/21	UK2.net
+107.182.125.0/24	OppoBox
+178.218.208.0/23	eServer.ru
+198.61.128.0/17	Rackspace
+74.121.64.0/22	DataCenter.BZ
+176.67.168.0/24	UK2.net
+198.46.148.0/22	ColoCrossing United States
+23.250.63.0/25	B2NetSolutions
+192.255.64.0/18	Micfo
+106.187.48.0/21	Linode
+192.210.208.0/23	ColoCrossing United States
+184.83.0.0/16	VPLS
+23.83.128.0/18	Ubiquity
+106.185.32.0/21	Linode
+82.192.64.0/19	Leaseweb
+177.54.152.0/21	Maxihost Hospedagem de Sites Ltda
+176.32.125.0/25	aws
+173.234.48.0/22	Ubiquity
+104.16.0.0/24	百度云加速IP段海外CF版
+192.158.224.0/20	Vivid Hosting
+176.32.104.0/21	aws
+191.101.56.0/23	PureVPN
+67.230.160.0/19	Carat Networks
+95.215.44.0/22	YOURSERVER-SE
+45.62.192.0/18	KW Datacenter
+205.185.223.0/24	IPVanish
+96.8.122.0/24	ColoCrossing United States
+54.240.128.0/18	aws
+199.231.208.112/29	Enzu Inc
+104.200.128.0/19	Total Server Solutions
+198.23.226.0/23	ColoCrossing United States
+64.71.224.0/20	Webhosting.Net
+81.94.192.0/20	Redstation
+178.22.88.0/21	Limited Liability Company Data Center M100
+72.3.128.0/17	Rackspace
+146.101.0.0/16	PSINet UK Dedicated Hosting
+199.96.86.0/23	CONTINUUMDATACENTERS.COM
+198.203.28.0/22	Hugeserver
+54.231.208.0/20	aws
+119.147.134.0/24	百度云加速IP段
+91.236.116.0/24	Sweden Dedicated
+107.172.32.0/19	ColoCrossing United States
+66.55.128.0/19	Choopa
+91.250.241.0/24	NAV Telecom - VPS Cloud Hosting
+103.242.34.0/24	Digital Sense
+120.52.18.0/24	360网站卫士IP段
+152.61.0.0/16	United States Geological Survey - EROS Data Center
+54.239.99.0/24	aws
+216.155.128.0/19	Choopa
+74.115.215.0/25	FastServ
+61.155.149.0/24	百度云加速IP段
+192.184.0.0/22	InstaVPS
+109.238.48.0/21	Solido Hosting
+212.21.64.0/19	D-Hosting GmbH
+81.4.120.0/22	RamNode
+75.127.14.0/23	ColoCrossing United States
+205.251.248.0/24	aws
+61.240.144.0/24	360网站卫士IP段
+54.240.192.0/22	aws
+198.23.168.0/22	ColoCrossing United States
+124.95.168.0/24	百度云加速IP段
+23.106.160.0/19	Ubiquity
+198.46.128.0/21	ColoCrossing United States
+202.87.32.0/19	NetMagic Datacenter
+162.246.16.0/21	Interserver
+113.17.174.0/24	360网站卫士IP段
+37.187.0.0/16	OVH
+172.245.0.0/16	ColoCrossing United States
+198.8.80.0/20	Total Server Solutions
+46.243.139.0/24	PureVPN
+223.223.218.0/24	Dedicated Server
+174.143.0.0/16	Rackspace
+23.20.0.0/14	aws
+193.111.33.0/24	DVS Hosting Limited
+204.246.174.0/23	aws
+104.36.16.0/22	Cloud Sigma
+77.94.247.0/24	Global-e Datacenter Networks
+198.15.64.0/18	Secured Servers
+54.242.0.0/15	aws
+98.142.96.0/20	Dimenoc
+142.91.200.0/21	Ubiquity
+198.96.88.0/21	Quadranet
+198.46.209.0/24	ColoCrossing United States
+72.249.94.0/24	ColoCrossing DFW United States
+104.168.88.0/21	ColoCrossing United States
+123.56.0.0/15	aliyun
+206.123.128.0/19	Secure Internet
+111.7.163.0/24	牛盾IP段
+72.51.30.0/24	Clarity Web Hosting
+106.187.88.0/21	Linode
+144.76.0.0/16	Hetzner Online GmbH
+91.219.236.0/22	ServerAstra
+107.170.0.0/16	Digital Ocean
+192.155.80.0/20	Linode
+162.210.192.0/21	Leaseweb
+74.118.180.0/22	Tonaquint Data Center
+91.237.52.0/24	Biznes-Host.pl
+37.123.112.0/24	UK2
+54.240.199.0/24	aws
+173.234.156.0/22	Ubiquity Servers
+188.227.160.0/20	Redstation
+23.229.60.0/24	ServerMania
+67.20.48.0/20	VPS Datacenter
+104.222.217.0/24	Telentia
+96.8.119.0/24	ColoCrossing United States
+46.23.64.0/21	100TB.COM
+199.212.86.0/23	Power Up Hosting
+54.232.0.0/16	aws
+45.78.80.0/20	YHSRV
+43.226.230.0/24	GZ Systems
+198.23.248.0/23	ColoCrossing United States
+50.112.0.0/16	aws
+72.20.18.192/26	direkhizmet
+94.247.0.0/21	Redhosting
+188.172.218.0/24	ANEXIA-NET Dedicated servers in IT
+83.142.224.0/21	Iomart Hosting
+37.48.64.0/18	Leaseweb
+195.88.75.0/24	Info Data Center Ltd
+104.37.0.0/21	PureVPN
+150.107.76.0/22	Gigabit Hosting
+69.30.192.0/18	Wholesale Internet
+95.85.16.0/21	Digital Ocean
+162.218.94.0/24	VPS Nodes United States
+37.46.118.0/23	AltusHost
+103.4.8.0/21	aws
+178.62.128.0/17	Digital Ocean
+176.102.64.0/21	Peanut Hosting
+92.48.64.0/18	Simply Transit Ltd
+216.157.0.0/18	Peer 1 Dedicated Hosting
+173.245.96.0/19	Carpathia Hosting
+192.236.128.0/17	Hostwinds
+54.250.0.0/16	aws
+192.240.192.0/18	MICFO
+54.230.0.0/16	aws
+66.187.71.76/30	Oplink
+112.253.14.0/24	牛盾IP段
+222.73.144.0/24	360网站卫士IP段
+148.251.0.0/16	Hetzner Online GmbH
+172.94.0.0/17	Secure Internet
+185.39.223.0/24	ProfiHost
+213.219.36.0/22	Linode
+207.210.239.0/24	ColoCrossing United States
+180.163.68.0/24	腾讯云IP段
+54.239.108.0/22	aws
+94.18.0.0/16	Zen Systems
+173.234.56.0/21	Ubiquity
+75.101.128.0/17	aws
+103.13.101.0/24	Servers Australia Pty Ltd
+54.68.0.0/14	aws
+14.17.71.0/24	百度云加速IP段
+51.254.0.0/15	OVH
+173.255.128.0/20	Hosting Services Inc
+192.154.136.0/21	Netelligent Hosting Services Inc
+116.31.127.0/24	百度云加速IP段
+122.228.198.0/24	牛盾IP段
+107.181.224.0/19	GorillaServers
+5.189.128.0/20	Contabo
+141.101.64.0/24	百度云加速IP段海外CF版
+108.163.128.0/18	iWeb
+176.34.32.0/19	aws
+146.185.184.0/21	Digital Ocean
+50.117.0.0/17	EGIHosting
+176.34.128.0/17	aws
+103.47.144.0/24	PureVPN
+74.205.0.0/17	Rackspace
+74.207.224.0/19	Linode
+162.221.182.0/24	SSD VPS United States
+185.2.28.0/24	AltusHost
+119.252.187.0/24	VPSNet
+198.12.64.0/22	ColoCrossing United States
+184.106.0.0/16	Rackspace
+91.109.240.0/21	UK2.net
+198.23.228.0/22	ColoCrossing United States
+176.34.0.0/19	aws
+185.10.200.0/22	GBServers Limited
+107.153.0.0/16	MICFO
+107.150.0.0/19	Quadranet
+216.182.224.0/20	aws
+124.153.96.0/20	NetMagic
+198.147.20.0/22	Total Server Solutions
+100.43.128.0/18	Krypt Technologies
+87.238.80.0/21	aws
+79.142.72.0/24	Privax
+199.244.112.0/21	HugeServer Networks
+68.68.32.0/20	Reliablehosting.com
+192.210.148.0/23	ColoCrossing United States
+221.204.202.0/24	牛盾IP段
+162.213.156.0/22	Astute Hosting
+208.123.208.0/20	Alentus Corp
+69.195.192.0/18	TERRENAP DATA CENTERS
+67.17.32.0/22	MICFO
+198.12.68.0/23	ColoCrossing United States
+66.225.231.0/24	ColoCrossing United States
+27.221.20.0/24	360网站卫士IP段
+70.39.64.0/18	SharkTech
+200.63.40.0/21	Panamaserver.com
+173.234.216.0/22	Ubiquity Servers
+31.3.152.0/21	AltusHost
+72.14.176.0/20	Linode
+69.31.134.0/24	ColoCrossing United States
+209.95.32.0/19	Hosting Services Inc
+185.101.156.0/22	hosttech GmbH
+66.225.198.0/24	ColoCrossing United States
+109.237.24.0/22	Linode
+185.3.228.0/22	Baltic-Data-Center
+54.231.0.0/17	aws
+69.176.96.0/20	CyrusOne LLC
+149.3.140.0/22	Redstation
+121.197.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd. China 
+192.241.102.0/24	ServerMania
+42.120.0.0/16	Aliyun Computing Co., LTD China 
+46.137.192.0/19	aws
+45.33.0.0/17	Linode
+176.12.96.0/24	MAXnet NOC
+174.34.156.0/22	Ubiquity
+213.129.64.0/20	The Bunker Secure Hosting Ltd
+107.172.0.0/20	ColoCrossing United States
+198.23.150.0/23	ColoCrossing United States
+162.245.144.0/22	Astute Hosting Inc
+198.12.120.0/23	ColoCrossing United States
+23.80.0.0/15	Ubiquity
+178.170.139.0/24	PureVPN
+184.169.128.0/17	aws
+173.255.192.0/18	Linode
+104.168.127.0/24	ColoCrossing United States
+204.27.56.0/21	Joe's Datacenter
+119.147.227.0/24	腾讯云IP段
+164.177.140.124/30	Rackspace
+199.188.100.0/23	ColoCrossing United States
+206.217.139.0/24	ColoCrossing United States
+216.245.192.0/19	Limestone Networks
+64.224.0.0/14	Peer 1 Dedicated Hosting
+54.239.8.0/21	aws
+108.178.0.0/18	SingleHop
+79.142.68.0/24	AltusHost
+182.247.229.0/24	腾讯云IP段
+79.142.76.0/23	AltusHost
+115.231.37.0/24	腾讯云IP段
+185.56.136.0/22	SecuredServers
+66.254.160.0/19	eSited Solutions
+101.71.55.0/24	百度云加速IP段
+120.52.0.0/16	China Unicom Cloud Data Company
+115.231.235.0/24	百度云加速IP段
+119.82.0.0/21	manageNET
+37.46.120.0/24	AltusHost
+119.188.132.0/24	百度云加速IP段
+209.159.144.0/20	Interserver
+199.58.84.0/22	Leaseweb
+205.234.152.0/24	ColoCrossing United States
+135.84.176.0/20	Astute Hosting
+104.168.116.0/22	ColoCrossing United States
+85.159.208.0/21	Linode
+45.124.66.0/24	HostUS
+174.34.144.0/23	Ubiquity
+173.234.168.0/22	Ubiquity
+78.110.160.0/20	UK Dedicated Servers Limited
+46.101.0.0/17	DigitalOcean
+72.249.124.0/24	ColoCrossing DFW United States
+46.255.16.0/21	Netpower Datacenter
+64.13.128.0/18	Silicon Valley Colocation
+208.68.36.0/22	Digital Ocean
+81.4.100.0/22	RamNode
+199.115.112.0/21	leaseweb.com
+54.210.0.0/15	aws
+76.73.0.0/17	FDCServers
+67.22.96.0/20	Canada Web Hosting
+50.31.0.0/17	Steadfast Networks
+216.189.144.0/20	HostUS
+198.46.152.0/23	ColoCrossing United States
+106.184.0.0/21	Linode
+5.175.151.0/24	Ghostnet
+54.233.0.0/18	aws
+139.129.0.0/16	Aliyun
+64.187.224.0/20	AlniTech.com
+61.54.47.0/24	百度云加速IP段
+216.108.224.0/20	premianet
+107.181.160.0/19	Total Server Solutions
+134.213.208.0/20	Rackspace
+173.234.116.0/22	Ubiquity
+96.8.125.0/24	ColoCrossing United States
+104.130.0.0/16	RackSpace
+162.216.16.0/22	Linode
+185.107.24.0/24	HostSlim
+202.102.85.0/24	360网站卫士IP段
+5.175.154.0/24	Ghostnet
+198.245.48.0/20	OVH
+5.101.168.0/21	UK Dedicated Servers Limited
+43.250.193.0/24	aws
+213.136.84.0/23	Contabo
+119.38.216.0/21	Hangzhou Alibaba Advertising Co.,Ltd. China 
+91.121.0.0/16	OVH
+23.82.0.0/16	Ubiquity
+192.40.56.0/22	Total Server Solutions
+200.61.208.0/20	DATACENTER PACHECO
+70.38.0.0/17	iWeb
+98.143.144.0/20	Quadranet
+192.99.0.0/16	OVH OVH SAS,FR
+80.241.222.0/23	Contabo
+217.171.224.0/21	Redhosting
+205.164.0.0/18	EGIHosting
+5.63.144.0/21	100TB
+162.246.184.0/22	Secure Internet
+54.200.0.0/15	aws
+31.210.113.0/24	Sayfa.net Colocation Customers
+158.222.0.0/20	NETIRONS
+52.0.0.0/11	aws
+209.44.96.0/19	Netelligent Hosting Services Inc
+198.46.156.0/22	ColoCrossing United States
+37.143.12.0/23	IHC.RU network in eServer.ru
+54.240.236.0/22	aws
+50.115.112.0/20	Hosting Services Inc
+107.172.18.0/23	ColoCrossing United States
+54.76.0.0/15	aws
+125.88.189.0/24	360网站卫士IP段
+72.13.80.0/20	EGIHosting
+104.222.211.0/24	Telentia
+206.217.143.0/24	ColoCrossing United States
+176.32.96.0/21	aws
+64.251.22.0/24	HELVAWEBHOST.NET
+198.12.112.0/22	ColoCrossing United States
+54.236.0.0/15	aws
+45.72.0.0/17	B2NetSolutions
+54.239.114.0/24	aws
+206.72.192.0/20	Interserver
+206.123.95.0/24	ColoCrossing United States
+162.242.128.0/17	Rackspace
+46.102.96.0/21	XT Global Networks Ltd
+199.21.115.0/24	ColoCrossing United States
+183.60.235.0/24	百度云加速IP段
+45.32.0.0/16	Choopa
+198.12.116.0/22	ColoCrossing United States
+176.31.0.0/16	OVH
+91.239.232.0/22	Hostpro
+96.8.121.0/24	ColoCrossing United States
+207.244.64.0/18	ZENMATE.COM
+5.159.224.0/21	Melbourne Server Hosting Ltd
+50.18.0.0/16	aws
+107.152.252.160/27	B2NetSolutions
+54.94.0.0/16	aws
+50.56.0.0/15	Rackspace
+185.43.110.0/24	VooServers
+107.151.192.0/18	VPSQuan
+54.74.0.0/15	aws
+192.200.16.0/20	Micfo
+80.87.202.0/25	JSC Server WebDC colocation
+142.91.40.0/21	Ubiquity
+208.53.32.0/19	C7 Data centers
+99.198.96.0/19	SingleHop
+185.82.202.0/24	HostSailor
+104.245.208.0/21	Server Central Network
+183.61.236.0/24	百度云加速IP段
+67.192.0.0/16	Rackspace
+192.255.128.0/17	Hostwinds
+223.252.0.0/17	OzServers
+103.7.192.0/22	Hosted Continuity Pty Ltd
+106.186.16.0/21	Linode
+104.168.0.0/19	ColoCrossing United States
+117.169.77.0/24	腾讯云IP段
+52.64.0.0/12	aws
+192.41.96.0/22	C7 Data Centers
+31.132.0.0/21	UK Dedicated Servers Limited
+75.125.0.0/16	ThePlanet.com
+103.241.60.0/22	MYHOSTING-SG
+178.165.0.0/18	Maxnet
+69.174.240.0/20	ServerBeach
+91.210.104.0/22	hostkey.com
+188.72.99.0/24	GZ Systems
+198.46.217.0/24	ColoCrossing United States
+173.198.192.0/18	Turnkey Internet
+103.254.152.0/22	Leaseweb
+5.44.104.0/22	Alvotech
+94.75.192.0/18	Leaseweb
+173.234.164.0/22	Ubiquity
+198.23.252.0/24	ColoCrossing United States
+54.231.128.0/19	aws
+146.185.136.0/21	Digital Ocean
+198.46.160.0/19	ColoCrossing United States
+162.158.0.0/24	百度云加速IP段海外CF版
+69.195.128.0/19	Joe's Datacenter
+192.81.208.0/20	Digital Ocean
+27.255.64.0/19	EHOSTIDC
+106.186.112.0/21	Linode
+192.210.227.0/24	ColoCrossing United States
+199.188.220.0/22	PlanetHoster
+199.127.248.0/21	Reliablehosting.com
+172.85.96.0/20	HOSTWAGON
+61.182.137.0/24	百度云加速IP段
+69.46.64.0/19	EGIHosting
+103.224.116.0/22	Vertex Singapore
+107.6.128.0/18	SingleHop
+188.95.224.0/21	City Network Hosting
+46.243.138.0/24	PureVPN
+222.161.220.0/24	腾讯云IP段
+208.81.164.0/22	CNSERVERS
+108.174.60.0/24	ColoCrossing United States
+5.230.139.0/24	Ghostnet
+199.192.200.0/21	Continuum Data Centers
+204.51.64.0/18	TERRENAP DATA CENTERS
+66.85.72.0/21	Joe's Datacenter
+151.237.192.0/19	ServiHosting
+74.213.128.0/19	Windstream
+184.154.0.0/16	Singlehop
+198.23.176.0/20	ColoCrossing United States
+54.241.0.0/16	aws
+107.190.128.0/20	HostDime
+103.19.88.0/22	NxtGen Datacenter & Cloud Technologies Pvt. Ltd
+60.29.248.0/24	21ViaNet(China),Inc.
+199.101.48.0/22	HostRocket
+103.6.85.0/24	Host Virtual
+192.253.240.0/20	Secure Internet
+54.220.0.0/16	aws
+42.121.0.0/16	Aliyun Computing Co., LTD China 
+91.227.220.0/22	VooServers
+68.168.128.0/20	Carat Networks
+54.206.0.0/16	aws
+166.88.0.0/16	EGI Hosting
+54.168.0.0/16	aws
+52.84.0.0/14	aws
+115.124.24.0/21	Hangzhou Alibaba Advertising Co.,Ltd. China 
+95.85.24.0/21	Digital Ocean
+78.138.64.0/18	MESH GmbH
+204.152.192.0/19	Quadranet
+72.29.64.0/19	HostDime
+185.5.175.0/24	Voxility
+31.186.160.0/21	DataCenter Fryslan
+63.141.224.0/19	DataShack
+187.45.176.0/20	HostDime
+107.181.64.0/20	Contina
+185.25.84.0/23	Privax
+204.246.164.0/22	aws
+43.245.196.0/24	VPSPLAZA - Los Angeles Malaysia
+91.229.76.0/22	DeltaHost
+198.23.128.0/22	ColoCrossing United States
+216.27.0.0/18	Windstream
+198.46.154.0/23	ColoCrossing United States
+103.13.240.0/22	HostDime
+205.251.236.0/22	aws
+98.126.0.0/16	Krypt Technologies
+104.156.48.0/20	NOC4Host
+54.93.0.0/16	aws
+66.228.32.0/19	Linode
+103.232.84.1/24	TheGigabit Hong Kong
+204.232.128.0/17	Rackspace
+108.162.192.0/24	百度云加速IP段海外CF版
+66.85.128.0/18	SecuredServers
+204.74.208.0/20	Take 2 Hosting
+79.142.73.0/24	AltusHost
+177.54.144.0/21	Maxihost Hospedagem de Sites Ltda
+54.248.0.0/15	aws
+69.88.128.0/19	Internap Network Services Corporation
+54.231.192.0/20	aws
+217.15.200.0/24	Maxnet
+46.137.0.0/17	aws
+223.94.66.0/24	牛盾IP段
+54.208.0.0/15	aws
+223.94.95.0/24	牛盾IP段
+173.245.219.0/24	SecuredConnectivity
+45.58.48.0/20	HostUS
+66.71.240.0/20	Total Server Solutions
+185.25.87.0/24	Privax
+121.0.24.0/22	Hangzhou Alibaba Advertising Co.,Ltd. China 
+103.47.145.0/25	Secure Internet
+54.215.0.0/16	aws
+5.62.4.0/23	Privax
+162.251.164.0/22	Los Angeles Dedicated LLC
+162.254.144.0/21	NOC4Hosts Inc
+62.73.7.0/22	Privax
+193.17.184.0/24	Biznes-Host.pl
+198.41.128.0/24	百度云加速IP段海外CF版
+110.75.0.0/16	Asia Pacific Network Information Centre China 
+65.111.168.0/21	ServerPronto
+193.150.8.0/22	GZ Systems
+119.38.208.0/21	Hangzhou Alibaba Advertising Co.,Ltd. China 
+64.64.224.0/19	Carat Networks
+209.222.0.0/19	Choopa
+113.31.87.0/24	牛盾IP段
+184.95.32.0/19	Secured Servers
+94.229.64.0/20	UK Dedicated Servers
+96.8.117.0/24	ColoCrossing United States
+69.16.152.128/26	SecuredConnectivity
+192.227.128.0/17	ColoCrossing
+216.244.96.0/19	Cervalis
+54.240.244.0/22	aws
+203.83.220.0/22	aws
+45.64.216.0/22	MegaHostZone
+23.251.32.0/19	VPSQuan
+69.172.232.0/23	H4Y Technologies
+37.123.113.0/24	UK2
+96.44.128.0/18	Quadranet
+198.23.224.0/23	ColoCrossing United States
+37.139.16.0/21	Digital Ocean
+198.12.70.0/23	ColoCrossing United States
+205.147.105.0/24	Host Virtual
+173.242.112.0/20	VolumeDrive
+213.168.248.0/22	Linode
+109.228.0.0/18	Fasthosts Internet Ltd
+192.210.160.0/19	ColoCrossing United States
+109.230.252.0/24	Serverbiz
+45.123.119.0/24	Serverfield Turnkey
+192.73.240.0/20	Host Virtual
+96.126.96.0/19	Linode
+198.12.80.0/21	ColoCrossing United States
+185.48.120.0/22	aws
+176.74.216.0/21	HOST-TELECOM.COM
+172.93.96.0/20	reliablesite.net
+46.51.216.0/21	aws
+54.240.196.0/24	aws
+54.198.0.0/16	aws
+185.94.28.0/22	Digital Hosting Technology Limited
+155.254.192.0/18	Contina
+198.23.254.0/23	ColoCrossing United States
+104.168.84.0/22	ColoCrossing United States
+192.200.192.0/19	Global Frag Networks
+121.198.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd. China 
+112.90.51.0/24	腾讯云IP段
+205.251.254.0/24	aws
+110.76.32.0/20	Aliyun Computing Co., LTD China 
+23.92.16.0/20	Linode
+14.18.142.0/24	牛盾IP段
+212.18.233.0/25	HostDime
+54.255.0.0/16	aws
+45.118.132.0/22	Linode
+188.226.192.0/18	Digital Ocean
+162.244.24.0/21	KW Datacenter
+208.93.233.128/26	hostmds.com
+162.213.36.0/22	Cloud Sigma
+198.46.220.0/24	ColoCrossing United States
+216.137.32.0/19	aws
+72.55.128.0/18	iWeb
+198.49.64.0/20	HostDime
+112.127.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd. China 
+173.245.209.0/24	SecuredConnectivity.net
+122.70.134.0/24	牛盾IP段
+43.249.38.0/23	Leaseweb
+65.111.164.0/22	ServerPronto
+172.252.0.0/16	EGIHosting
+78.157.192.0/19	UK Dedicated Servers Limited
+104.168.32.0/19	ColoCrossing United States
+67.202.0.0/18	aws
+46.165.192.0/18	Leaseweb
+192.210.236.0/22	ColoCrossing United States
+54.214.0.0/16	aws
+208.71.168.0/21	Network Data Center Host
+198.27.64.0/18	OVH OVH SAS,FR
+23.227.192.0/20	Swiftway Communications
+212.71.248.0/21	Linode
+103.3.60.0/22	Linode
+199.21.113.0/24	ColoCrossing United States
+54.240.232.0/22	aws
+79.142.70.0/24	AltusHost
+115.231.236.0/24	百度云加速IP段
+223.4.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd. China 
+183.250.179.0/24	牛盾IP段
+176.32.120.0/22	aws
+162.248.140.0/22	KW Datacenter
+195.191.25.0/24	Hostpro
+5.175.184.0/24	Ghostnet
+213.131.236.0/22	MESH GmbH
+216.73.96.0/19	OC Hosting
+54.240.204.0/22	aws
+107.152.96.0/20	Total Server Solutions
+185.116.212.0/22	Smart Cloud Hosting UK Ltd
+109.163.234.0/23	Voxility
+198.136.24.0/21	GorillaServers
+118.107.0.0/18	Wholesale Internet Provider
+185.2.29.0/24	AltusHost
+173.234.144.0/21	Ubiquity
+117.27.149.0/24	百度云加速IP段
+107.172.16.0/23	ColoCrossing United States
+69.93.0.0/16	ThePlanet.com
+149.3.128.0/21	Redstation
+199.36.104.0/21	InstaVPS
+103.249.60.0/22	MHA Cloud
+72.26.224.0/20	Infortech Corporation
+192.187.96.0/19	DataShack
+106.186.120.0/21	Linode
+54.169.0.0/16	aws
+54.92.128.0/17	aws
+108.174.62.0/23	ColoCrossing United States
+104.251.208.0/20	Nodisto IT
+205.234.203.0/24	ColoCrossing United States
+178.170.141.0/24	PureVPN
+67.198.128.0/17	Krypt Technologies
+72.18.192.0/20	Las Vegas NV Datacenter
+209.73.128.0/19	EgiHosting
+5.154.190.0/23	Stephost
+103.14.212.1/22	APC HOSTING PTE LTD
+206.144.68.0/23	MICFO
+91.106.224.0/21	DataCenter Fryslan
+162.13.136.0/21	Rackspace
+91.226.212.0/23	XServer
+46.246.80.0/23	FrootVPN
+63.142.160.0/20	Neutral Data Centers
+220.170.91.0/24	腾讯云IP段
+198.23.172.0/22	ColoCrossing United States
+54.240.227.0/24	aws
+184.171.240.0/20	HostDime
+198.12.76.0/22	ColoCrossing United States
+198.144.184.0/22	ColoCrossing United States
+104.223.0.0/17	Quadranet
+50.7.0.0/16	FDCservers
+173.245.48.0/24	百度云加速IP段海外CF版
+54.239.56.0/21	aws
+103.243.239.0/24	Aus Net Servers Australia Pty Ltd
+139.196.0.0/16	Aliyun
+74.222.128.0/18	Krypt Technologies
+185.38.44.128/25	HostDime
+124.193.166.0/24	牛盾IP段
+104.250.96.0/19	DigitalFyre
+91.238.214.0/23	VooServers
+67.205.67.64/27	iWeb
+123.108.32.0/19	NETMAGIC DATACENTER
+192.151.144.0/20	DataShack
+221.121.128.0/19	Server Australia
+185.17.172.0/22	Netwise Hosting Ltd
+96.127.0.0/17	aws
+121.0.28.0/22	Hangzhou Alibaba Advertising Co.,Ltd. China 
+46.51.128.0/18	aws
+173.224.112.0/20	server4you
+69.166.128.0/19	Windstream
+192.52.166.0/23	Crowncloud US LLC
+209.236.64.0/20	WestHost
+185.25.86.0/24	Privax
+199.168.136.0/21	VolumeDrive
+5.187.21.0/24	ServerSpace
+104.207.32.0/19	YHSRV
+54.240.198.0/24	aws
+220.181.55.0/24	360网站卫士IP段
+192.96.200.0/21	ZENMATE.COM
+54.231.252.0/24	aws
+37.139.64.0/24	VPNSecure
+206.217.142.0/24	ColoCrossing United States
+167.160.96.0/19	Contina
+216.170.115.0/24	CheapWindowsVPS.com United States
+104.168.126.0/24	ColoCrossing United States
+64.145.94.0/24	SecuredConnectivity.net
+31.24.152.0/21	Infortelecom Hosting
+162.218.115.64/27	IOFLOOD.COM
+177.71.128.0/17	aws
+104.254.212.0/22	Power Up Hosting
+5.175.148.0/24	Ghostnet
+65.60.0.0/18	SingleHop
+74.82.192.0/19	Carat Networks
+216.131.64.0/18	Reliablehosting.com
+54.204.0.0/15	aws
+173.234.40.0/22	Ubiquity
+162.209.0.0/17	Rackspace
+185.22.232.0/24	IHC.RU
+54.254.0.0/16	aws
+54.239.104.0/23	aws
+37.59.0.0/16	OVH
+45.125.244.0/24	KGO VPS
+69.12.64.0/19	Quadranet
+37.9.56.0/21	UK Dedicated Servers Limited
+79.143.80.0/22	Redstation
+23.238.0.0/17	Hostwinds
+162.243.0.0/16	DigitalOcean
+54.240.240.0/24	aws
+103.192.176.0/23	HostUS
+45.125.193.0/24	Ready Server - Dedicated Server Hosting
+185.12.6.0/24	Cloud Sigma
+95.85.48.0/21	Digital Ocean
+205.251.224.0/22	aws
+66.109.16.0/20	Galaxyvisions Inc
+88.208.192.0/18	FastHosts
+54.239.4.0/22	aws
+112.25.11.0/24	牛盾IP段
+75.127.0.0/24	ColoCrossing United States
+54.226.0.0/15	aws
+104.148.0.0/17	Global Frag Networks
+54.239.2.0/23	aws
+31.24.33.0/24	ServerSpace
+107.181.148.0/22	Nodisto IT
+223.5.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd. China 
+198.105.208.0/20	VPNBOOK
+185.17.148.0/22	Iomart Hosting Ltd
+109.73.168.0/26	HostDime
+87.98.128.0/17	OVH
+61.174.9.0/24	牛盾IP段
+198.46.136.0/22	ColoCrossing United States
+97.64.0.0/17	Peak Web Hosting
+61.160.224.0/24	360网站卫士IP段
+205.251.252.0/23	aws
+54.88.0.0/14	aws
+198.23.132.0/22	ColoCrossing United States
+107.174.0.0/16	ColoCrossing United States
+104.223.128.0/17	Global Frag Networks
+207.171.176.0/20	aws
+66.117.32.0/19	Carpathia Hosting
+101.71.56.0/24	百度云加速IP段
+198.23.253.0/24	ColoCrossing United States
+89.32.248.0/22	XT Global Networks
+54.239.96.0/24	aws
+188.72.107.0/24	GZ Systems
+68.232.160.0/19	Choopa
+54.244.0.0/16	aws
+85.25.0.0/16	PlusServer
+209.236.112.0/20	DFW Datacenter
+207.198.64.0/18	Peer 1 Dedicated Hosting
+37.58.48.0/20	Leaseweb
+213.152.160.0/19	Global Layer Network
+54.219.0.0/16	aws
+54.199.0.0/16	aws
+70.32.34.0/24	Ubiquity
+54.194.0.0/15	aws
+185.10.56.0/22	AltusHost
+174.139.0.0/16	Krypt Technologies
+5.22.248.0/21	CJ2 Hosting
+185.104.216.0/22	ServeByte
+192.210.144.0/22	ColoCrossing United States
+82.196.0.0/21	Digital Ocean
+65.99.246.0/24	ColoCrossing DFW United States
+205.251.247.0/24	aws
+206.144.184.0/24	MICFO
+198.20.64.0/18	SingleHop
+198.100.144.0/20	OVH OVH SAS,FR
+209.74.104.0/21	Rebel Hosting
+54.240.248.0/21	aws
+188.208.0.0/20	XT Global Networks Ltd
+146.185.128.0/21	Digital Ocean
+104.143.16.0/20	Roya Hosting
+205.251.244.0/23	aws
+77.75.120.0/21	UK Dedicated Servers Ltd
+178.159.0.0/20	UK Dedicated Servers Limited
+23.107.0.0/16	Ubiquity
+54.224.0.0/15	aws
+109.169.0.0/18	Iomart Hosting
+192.210.232.0/22	ColoCrossing United States
+66.118.156.0/23	Sago Networks
+75.127.8.0/23	ColoCrossing United States
+54.239.32.0/21	aws
+23.228.64.0/18	Global Frag Networks
+119.59.96.0/19	METRABYTE COLTD
+209.41.160.0/19	HostMySite
+208.85.0.0/21	Turnkey
+217.15.160.0/20	BeeVPN Network
+184.72.64.0/18	aws
+188.165.0.0/16	OVH
+27.0.0.0/22	aws
+209.191.164.0/23	InterNap Network Operations Center
+218.244.128.0/19	Hangzhou Alibaba Advertising Co.,Ltd. China 
+103.192.178.0/24	HostUS
+67.215.160.0/19	Webhosting.Net
+192.77.240.0/20	MICFO
+212.71.244.0/22	Linode
+46.105.0.0/16	OVH
+68.68.96.0/20	EGIHosting
+217.170.192.0/20	NO-SERVETHEWORLD
+199.48.240.0/24	Powerhouse Management
+119.97.146.0/24	牛盾IP段
+5.101.117.0/24	FastVPS
+185.17.24.0/22	UK Dedicated Servers Limited
+93.114.40.0/21	Voxility
+173.230.224.0/20	Webhosting.Net
+45.124.67.0/24	HostUS
+141.8.194.0/24	Sprinthost
+192.210.228.0/22	ColoCrossing United States
+5.62.8.0/22	Privax
+50.16.0.0/15	aws
+91.206.30.0/23	Freehost.UA
+54.221.0.0/16	aws
+45.42.128.0/17	Roya Hosting
+178.238.226.0/23	Contabo
+58.216.25.0/24	腾讯云IP段
+173.243.112.0/20	Continuum Data Centers
+91.109.112.0/21	UK Dedicated Servers Limited
+195.154.0.0/16	Online SAS
+103.15.132.0/24	PacificNet Hosting
+206.83.192.0/19	Carpathia Hosting
+54.193.0.0/16	aws
+67.212.64.0/19	Netelligent Hosting Services Inc
+23.232.128.0/17	Micfo
+192.210.140.0/23	ColoCrossing United States
+206.217.130.0/24	ColoCrossing United States
+217.147.80.0/20	Iomart Hosting
+114.215.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd. China 
+198.211.96.0/19	Digital Ocean
+208.110.64.0/19	WholeSale Internet
+173.239.96.0/19	HostMySite
+142.91.72.0/21	Ubiquity
+54.228.0.0/16	aws
+209.58.176.0/21	Leaseweb
+23.239.0.0/19	Linode
+174.129.0.0/16	aws
+69.194.224.0/20	180Servers.com
+192.81.128.0/21	Linode
+54.172.0.0/15	aws
+199.241.144.0/22	HugeServer
+45.123.118.0/24	Serverfield Turnkey
+75.127.5.0/24	ColoCrossing United States
+183.232.66.0/24	牛盾IP段
+192.110.164.128/26	FreeProxies
+107.179.0.0/17	Global Frag Networks
+115.159.0.0/16	TencentCloud
+199.27.128.0/24	百度云加速IP段海外CF版
+198.55.96.0/19	Quadranet
+198.24.128.0/18	Secured Servers
+199.175.48.0/21	VPS Cheap Inc
+185.2.31.0/24	AltusHost
+198.23.250.0/23	ColoCrossing United States
+205.251.232.0/22	aws
+208.87.32.0/21	Secure Hosting
+104.168.80.0/23	ColoCrossing United States
+160.92.56.0/24	Worldline France hosting
+212.129.0.0/18	Online SAS
+106.187.40.0/21	Linode
+104.243.32.0/20	reliablesite.net
+64.20.32.0/19	Interserver
+146.185.168.0/21	Digital Ocean
+208.115.192.0/18	Limestone Networks
+147.75.192.0/20	Packet Host
+104.161.0.0/16	IOFLOOD.COM
+106.187.32.0/21	Linode
+205.251.255.0/24	aws
+178.238.224.0/23	Contabo
+104.143.64.0/20	InstaVPS
+188.72.114.0/24	GZ Systems
+199.189.64.0/22	REDPLAID Managed Hosting
+199.79.52.0/22	Tonaquint Data Center
+183.56.172.0/24	牛盾IP段
+205.185.198.192/26	IPVanish
+54.238.0.0/16	aws
+54.240.216.0/22	aws
+199.195.192.0/21	Hosting Services
+178.79.128.0/18	Linode
+66.79.160.0/19	DCS Pacific Star
+61.163.30.0/24	牛盾IP段
+184.172.0.0/15	ThePlanet.com
+115.124.20.0/22	Hangzhou Alibaba Advertising Co.,Ltd. China 
+197.234.240.0/24	百度云加速IP段海外CF版
+198.74.48.0/20	Linode
+5.62.24.0/22	Privax
+157.52.128.0/17	Global Frag Networks
+117.34.112.0/24	百度云加速IP段
+104.245.104.0/22	Agave Networks
+119.252.190.0/24	DedicatedGaming
+42.236.7.0/24	百度云加速IP段
+37.152.8.0/21	Redhosting
+216.194.112.0/20	C7 Data Centers
+45.57.128.0/17	B2NetSolutions
+101.226.4.0/24	360网站卫士IP段
+46.23.72.0/21	VPS.net
+217.27.224.0/20	DataCenter Fryslan
+77.81.92.0/22	XT Global Networks Ltd
+74.50.96.0/19	NOC4Hosts
+174.127.64.0/18	Hosting Services
+112.25.60.0/24	360网站卫士IP段
+140.205.0.0/16	Aliyun Computing Co., LTD China 
+195.149.78.0/24	Forsikringens Datacenter
+42.156.128.0/17	Aliyun Computing Co., LTD China 
+199.188.103.0/24	ColoCrossing United States
+173.234.184.0/22	Ubiquity
+72.21.192.0/19	aws
+119.42.224.0/20	Alibaba (China) Technology Co., Ltd. China 
+67.203.0.0/18	Colocation America Corporation
+110.76.48.0/20	aliyun
+68.233.224.0/19	NOC4Hosts Inc
+64.15.156.0/27	iWeb
+192.230.32.0/19	Micfo
+162.244.8.0/21	PowerUpHosting
+75.127.10.0/23	ColoCrossing United States
+198.23.149.0/24	ColoCrossing United States
+64.79.96.0/20	Continuum Data Centers
+54.80.0.0/13	aws
+198.23.136.0/21	ColoCrossing United States
+182.140.227.0/24	360网站卫士IP段
+103.198.76.0/24	Softsys Hosting
+151.236.216.0/21	Linode
+121.0.16.0/21	Hangzhou Alibaba Advertising Co.,Ltd. China 
+37.220.0.0/19	Redstation
+104.227.52.0/23	Online Server
+69.31.50.0/24	GIGLINX
+23.29.96.0/20	TERRENAP DATA CENTERS
+45.55.0.0/16	Digital Ocean
+173.236.0.0/17	Singlehop
+216.27.64.0/19	Windstream
+185.25.116.0/22	Hosting Ukraine Ltd.
+80.84.48.0/20	Redstation
+178.162.128.0/17	Leaseweb
+198.50.128.0/17	OVH OVH SAS,FR
+130.180.201.0/24	ServerSpace
+116.118.253.0/24	Hyperspike
+178.62.0.0/17	Digital Ocean
+172.111.128.0/17	Secure Internet
+110.50.241.0/24	Korea-Hosting
+31.220.30.0/24	HostHatch
+198.46.144.0/22	ColoCrossing United States
+221.204.14.0/24	360网站卫士IP段
+192.210.200.0/22	ColoCrossing United States
+31.3.224.0/19	Redstation
+77.68.0.0/17	Fasthosts
+5.2.64.0/20	Liteserver
+54.64.0.0/15	aws
+205.204.64.0/19	Netelligent Hosting Services Inc
+209.51.192.0/19	xlhost.com
+50.31.128.0/17	Server Central Network
+183.136.133.0/24	360网站卫士IP段
+67.212.224.0/20	WestHost
+209.15.96.0/19	Peer 1 Dedicated Hosting
+198.8.60.0/22	HostRocket
+216.119.144.0/20	Hosting Services
+121.196.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd. China 
+182.150.1.0/24	百度云加速IP段
+5.79.64.0/18	Leaseweb
+120.52.113.0/24	百度云加速IP段
+69.63.128.0/19	Edge Hosting
+103.229.120.0/22	Data Center
+208.76.192.0/21	QWK.net Hosting
+107.175.0.0/16	ColoCrossing United States
+103.18.56.0/24	VpsCity NZ
+173.44.32.0/19	QuadraNet
+205.251.240.0/22	aws
+96.8.120.0/24	ColoCrossing United States
+107.161.176.0/20	HostDime
+45.59.128.0/18	Roya Hosting
+54.239.192.0/19	aws
+173.214.160.0/20	Interserver
+188.64.186.0/23	UKHost4u
+66.90.64.0/18	FDCservers
+54.79.0.0/16	aws
+54.231.244.0/22	aws
+183.232.51.0/24	百度云加速IP段
+23.19.40.0/21	UBIQUITYSERVERS.COM
+95.85.56.0/21	Digital Ocean
+61.184.213.0/24	腾讯云IP段
+104.168.122.0/24	ColoCrossing United States
+206.217.136.0/23	ColoCrossing United States
+45.64.112.0/23	HongKong Virtual Internal Server Company Limited
+185.43.109.0/24	VooServers
+75.127.1.0/24	ColoCrossing United States
+54.231.224.0/21	aws
+178.236.0.0/20	aws
+192.241.128.0/17	Digital Ocean
+209.126.96.0/19	Hosting Solutions International
+188.114.96.0/24	百度云加速IP段海外CF版
+104.218.48.0/21	InterServer
+60.174.156.0/24	腾讯云IP段
+103.46.142.0/24	PureVPN
+91.106.192.0/21	City Network Hosting
+198.23.160.0/23	ColoCrossing United States
+104.168.120.0/24	ColoCrossing United States
+117.121.242.0/24	GPLHost VPS
+172.86.176.0/21	Joe's Datacenter
+82.98.128.0/18	DinaHosting
+104.207.128.0/19	Choopa
+52.88.0.0/13	aws
+162.221.184.0/21	HostDime
+213.136.64.0/23	Contabo
+107.150.32.0/19	DataShack
+103.16.26.0/24	Hong Kong Serverworks Limited
+190.123.32.0/20	Panamaserver.com
+46.51.192.0/20	aws
+45.63.0.0/17	Choopa
+54.196.0.0/15	aws
+115.231.91.0/24	牛盾IP段
+23.106.192.0/18	Ubiquity
+77.245.64.0/20	Redstation
+42.236.2.0/24	腾讯云IP段
+148.163.116.0/24	IOFLOOD.COM
+125.39.5.0/24	牛盾IP段
+95.154.192.0/18	Iomart Hosting
+104.128.48.0/20	HostVenom
+54.246.0.0/16	aws
+91.223.208.0/24	PostCy Data Center Limited
+216.157.96.0/20	Peer 1 Dedicated Hosting
+107.158.40.0/24	Buyproxies.org
+74.122.120.0/22	QUASAR DATA CENTER
+109.190.0.0/16	OVH
+103.13.224.0/22	Maxnet Online
+193.200.241.0/24	Contabo
+62.210.0.0/16	Online SAS
+69.36.64.0/19	Siteserver Hosting
+209.240.96.0/20	Turnkey
+54.231.240.0/22	aws
+23.83.192.0/20	Ubiquity
+149.202.0.0/16	OVH
+198.23.164.0/23	ColoCrossing United States
+216.170.113.0/24	SSD VPS United States
+198.23.244.0/22	ColoCrossing United States
+108.61.0.0/16	Choopa
+188.166.0.0/16	Digital Ocean
+206.217.128.0/23	ColoCrossing United States
+216.170.114.0/24	SSDVPS.com United States
+54.207.0.0/16	aws
+216.151.183.0/24	SecuredConnectivity
+199.58.184.0/22	Total Server Solutions
+199.21.200.0/21	Tonaquint Data Center
+207.204.224.0/19	Reliablehosting.com
+128.199.0.0/16	Digital Ocean
+108.170.0.0/18	Secured Servers
+208.71.112.0/21	Neutral Data Centers Corp
+207.150.160.0/19	Sago Networks
+204.155.28.0/22	Hosting Solution Ltd
+176.67.172.0/24	UK2.net
+178.238.236.0/23	Contabo
+185.38.45.0/26	HostDime
+184.170.240.0/20	Total Server Solutions
+91.213.8.0/24	Hosting Solutions
+43.224.32.0/22	Choopa
+23.229.127.0/24	ServerMania
+198.144.188.0/22	ColoCrossing United States
+80.240.128.0/20	Digital Ocean
+162.218.90.0/23	VPS ACE United States
+174.34.132.0/22	Ubiquity
+80.92.64.0/19	Datacenter Luxembourg
+92.222.0.0/16	OVH
+83.143.80.0/21	NO-SERVETHEWORLD
+173.195.0.0/20	Reliablehosting.com
+87.230.0.0/17	HostEurope
+64.145.76.0/24	SecuredConnectivity
+141.8.193.0/24	Sprinthost
+45.125.192.0/24	Ready Server - Dedicated Server Hosting
+103.194.70.0/23	Hostaxis Network Private Limited
+198.134.104.0/21	Unlimited Net
+103.18.58.0/24	VpsCity NZ
+209.197.16.128/26	IPVanish
+199.38.232.0/22	WanSecurity
+119.42.244.0/22	Hangzhou Alibaba Advertising Co.,Ltd. China 
+184.107.0.0/16	iWeb
+23.19.88.0/21	UBIQUITYSERVERS.COM
+67.212.160.0/19	SingleHop
+96.47.224.0/20	Quadranet
+85.17.0.0/16	Leaseweb
+173.230.128.0/19	Linode
+93.190.40.0/21	AGGREGATE BLOCK FOR UKRTELECOM  DATA CENTER UKRHOST
+213.5.64.0/21	AltusHost
+74.221.208.0/20	DME Hosting
+119.42.242.0/23	Hangzhou Alibaba Advertising Co.,Ltd. China 
+142.4.192.0/19	OVH OVH SAS,FR
+138.128.21.216/29	Cyberghost VPN
+103.13.103.0/24	Servers Australia Pty Ltd
+46.51.224.0/19	aws
+208.53.128.0/18	FDCservers
+109.123.64.0/18	UK2
+67.23.0.0/20	Rackspace
+185.111.228.0/24	SakuraServer
+54.174.0.0/15	aws
+199.189.84.0/22	Hosting Solutions International
+104.167.192.0/18	Contina
+45.74.0.0/18	Secure Internet
+67.208.208.0/20	TERRENAP DATA CENTERS
+111.68.0.0/20	APACSERVER-HK
+54.78.0.0/16	aws
+172.98.64.0/19	Total Server Solutions
+46.28.48.0/21	UK2
+213.171.192.0/19	Fasthosts Internet Ltd
+68.71.32.0/19	Netelligent Hosting Services Inc
+104.128.224.0/20	HostUS
+75.127.2.0/23	ColoCrossing United States
+113.31.134.0/24	牛盾IP段
+205.185.96.0/20	Host Idaho
+104.36.176.0/21	Reliablehosting.com
+198.100.96.0/19	GorillaServers
+212.7.192.0/19	Dediserv Dedicated Servers
+91.221.66.0/23	Oy Creanova Hosting Solutions Ltd
+109.206.186.0/24	Serverel Data Center
+205.234.153.0/24	ColoCrossing United States
+82.196.8.0/21	Digital Ocean
+54.67.0.0/16	aws
+184.73.0.0/16	aws
+69.41.160.0/19	1-800-HOSTING
+176.32.112.0/21	aws
+209.172.32.0/19	iWeb
+54.218.0.0/16	aws
+177.185.0.0/20	ASCENTY DATA CENTERS
+54.240.203.0/24	aws
+103.230.36.0/22	ECS Cloud
+198.23.232.0/21	ColoCrossing United States
+198.46.224.0/20	ColoCrossing United States
+204.246.168.0/22	aws
+37.221.174.0/23	Voxility
+121.40.0.0/14	aliyun
+54.239.48.0/22	aws
+66.117.0.0/20	Corporate Colocation Inc
+37.157.240.0/21	Redstation
+198.23.156.0/22	ColoCrossing United States
+216.157.64.0/19	Peer 1 Dedicated Hosting
+213.203.192.0/18	MESH GmbH
+192.252.208.0/20	Total Server Solutions
+5.175.208.0/24	Ghostnet
+223.7.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd.
+84.19.160.0/19	keyweb.de
+113.207.30.0/24	牛盾IP段
+216.36.32.0/20	Carpathia Hosting
+182.92.0.0/16	Aliyun
+54.234.0.0/15	aws
+45.127.94.0/23	HostUS
+74.63.64.0/18	FDCServers
+23.83.0.0/17	Ubiquity
+54.247.0.0/16	aws
+104.227.38.0/24	YourPrivateProxy
+107.182.118.0/24	OppoBox
+94.23.0.0/16	OVH
+74.91.16.0/20	DataShack
+60.12.166.0/24	牛盾IP段
+185.112.156.0/22	MikroVPS Kft
+45.79.0.0/16	Linode
+146.185.16.0/20	100TB.COM
+192.240.96.0/19	FDCservers.net
+175.41.128.0/18	aws
+104.243.240.0/20	Secure Internet
+85.203.21.0/24	Express-Equinix-Tokyo
+198.16.4.0/22	Packet Host
+206.217.131.0/24	ColoCrossing United States
+216.170.112.0/24	VPS Nodes United States
+103.8.124.0/22	CtrlS Datacenters Limited
+192.210.204.0/22	ColoCrossing United States
+74.115.209.128/26	FastServ
+146.0.77.0/24	Hostkey
+54.176.0.0/12	aws
+72.46.224.0/19	TERRENAP DATA CENTERS
+198.23.166.0/23	ColoCrossing United States
+104.236.0.0/16	DigitalOcean
+146.185.176.0/21	Digital Ocean
+162.252.80.0/21	NOC4Hosts
+192.210.220.0/22	ColoCrossing United States
+217.174.240.0/20	Fasthosts
+54.66.0.0/16	aws
+199.36.220.0/22	Total Server Solutions
+222.88.94.0/24	牛盾IP段
+162.213.12.0/22	Metro Data Center
+207.218.192.0/18	ThePlanet.com
+209.54.32.0/20	KVCHosting
+158.255.6.0/24	HostKey Network
+204.246.176.0/20	aws
+66.209.176.0/20	Canhost Inc
+173.208.0.0/17	UBIQUITYSERVERS.COM/NOBIS
+54.170.0.0/15	aws
+5.254.64.0/24	voxility
+122.226.182.0/24	牛盾IP段
+77.92.64.0/19	UK2.net
+104.168.112.0/22	ColoCrossing United States
+178.170.145.0/24	PureVPN
+199.189.26.0/23	Amanah Tech Inc
+74.121.180.0/22	Continuum Data Centers
+193.107.84.0/22	Thor DC
+173.245.202.0/24	IPVanish
+54.160.0.0/13	aws
+168.235.144.0/20	KW Datacenter
+72.11.128.0/19	Quadranet
+207.171.160.0/20	aws
+178.250.40.0/21	SuperHost.pl
+192.225.112.0/20	MyServer.org
+204.12.192.0/18	WholeSale Internet
+5.39.0.0/17	OVH
+70.35.192.0/20	Fasthosts Internet Ltd
+79.125.0.0/17	aws
+91.228.152.0/22	First Colo
+172.102.240.0/21	Ontario Datacenter LLC
+23.238.128.0/17	Psychz Networks
+52.32.0.0/11	aws
+106.187.96.0/21	Linode
+198.23.192.0/20	ColoCrossing United States
+66.45.224.0/19	Interserver
+81.92.218.0/23	HostRoyale Technologies
+104.168.73.0/24	ColoCrossing United States
+199.21.112.0/24	ColoCrossing United States
+209.239.112.0/20	Hosting Solutions International
+108.59.0.0/20	ZENMATE.COM
+216.169.128.0/20	Reliablehosting.com
+186.250.240.0/21	ENGETRONICS INTERNET DATACENTER
+116.93.0.0/17	IP-Converge
+52.192.0.0/15	Amazon Data Services Japan
+107.173.0.0/16	ColoCrossing United States
+192.210.240.0/20	ColoCrossing United States
+89.34.27.0/24	ZetServers Network
+216.223.24.0/22	InterNap Network Operations Center
+23.254.128.0/17	Hostwinds
+136.0.0.0/16	EGIHosting
+216.172.128.0/19	EGIHosting
+158.69.0.0/16	OVH
+173.233.64.0/19	Turnkey Internet
+180.153.235.0/24	360网站卫士IP段
+204.44.64.0/18	QUADRANET.COM
+173.255.160.0/19	Reliablehosting.com
+206.217.138.0/24	ColoCrossing United States
+42.236.6.0/24	牛盾IP段
+198.58.96.0/19	Linode
+54.240.200.0/24	aws
+103.31.4.0/24	百度云加速IP段海外CF版
+104.233.64.0/18	KW Datacenter
+103.27.76.0/23	HostUS
+54.239.100.0/23	aws
+37.46.116.0/24	AltusHost
+106.185.48.0/21	Linode
+23.110.0.0/16	Ubiquity
+117.34.36.0/24	腾讯云IP段
+107.20.0.0/14	aws
+192.173.144.0/20	Hugeserver
+219.146.241.0/24	腾讯云IP段
+198.241.46.128/25	Privax
+107.172.128.0/17	ColoCrossing United States
+75.102.0.0/18	Server Central Network
+199.116.112.0/21	Total Server Solutions
+61.54.46.0/24	百度云加速IP段
+72.32.0.0/16	Rackspace
+5.175.221.0/24	Ghostnet
+185.31.76.0/22	Powerhosting
+192.210.212.0/23	ColoCrossing United States
+103.232.86.1/24	TheGigabit Hong Kong
+192.3.0.0/16	ColoCrossing United States
+91.214.44.0/22	AltusHost
+23.247.128.0/17	Micfo
+209.197.20.192/26	IPVanish
+185.81.156.0/22	Inulogic Virtual Private Servers
+109.73.120.0/21	The Bunker Secure Hosting Ltd
+66.187.66.0/24	Privax
+77.74.192.0/21	UK Dedicated Servers Limited
+185.24.232.0/22	Servebyte
+173.252.192.0/18	Take 2 Hosting
+184.75.208.0/20	Amanah Tech Inc
+95.211.0.0/16	Leaseweb
+120.52.114.0/24	百度云加速IP段
+37.130.224.0/24	Hosting Services
+96.8.116.0/24	ColoCrossing United States
+94.103.160.0/20	KGT New Media
+223.5.5.0/24	Hangzhou Alibaba Advertising Co.,Ltd. China 
+103.47.146.0/24	GZ Systems
+109.200.0.0/19	Redstation
+79.142.79.0/24	AltusHost
+23.250.112.144/29	B2NetSolutions
+5.175.222.0/24	Ghostnet
+68.64.160.0/20	Corporate Colocation Inc
+107.161.158.0/24	VPS Nodes United States
+188.126.64.0/19	Portlane Network
+23.247.0.0/17	Global Frag Networks
+192.243.214.0/23	Pacific Servers Inc
+222.216.190.0/24	百度云加速IP段
+82.145.32.0/19	Rapidswitch
+162.217.112.0/22	Tranquil Hosting
+78.129.128.0/17	Iomart Hosting
+142.111.0.0/16	EGIHosting
+185.3.92.0/22	Linode
+88.80.184.0/21	Linode
+64.31.0.0/18	Limestone
+205.196.16.0/21	Certified Hosting
+103.21.244.0/24	百度云加速IP段海外CF版
+65.99.193.0/24	ColoCrossing United States
+59.51.81.0/24	百度云加速IP段
+185.2.139.8/29	Hosting Services
+107.191.32.0/19	Choopa
+107.168.0.0/15	MICFO
+120.24.0.0/14	aliyun
+43.226.229.0/24	GZ Systems
+69.162.64.0/18	Limestone Networks
+72.44.32.0/19	aws
+198.7.56.0/21	Leaseweb
+212.83.128.0/19	Online SAS - Dedibox
+167.114.0.0/16	OVH
+142.91.20.0/22	Ubiquity
+54.92.0.0/17	aws
+54.229.0.0/16	aws
+45.56.64.0/18	Linode
+64.237.32.0/19	Choopa
+213.179.192.0/19	SolidHost
+184.72.0.0/18	aws
+31.210.127.0/24	Sayfa.net Colocation Customers
+87.118.64.0/18	Keyweb
+173.245.64.0/19	EGIHosting
+192.210.128.0/21	ColoCrossing United States
+23.27.0.0/16	EGIHosting
+5.9.0.0/16	Hetzner Online GmbH
+176.34.64.0/18	aws
+103.15.233.0/24	Singhost
+103.246.150.0/23	aws
+54.253.0.0/16	aws
+79.143.86.0/23	aminserve.com
+205.234.159.0/24	ColoCrossing United States
+198.46.240.0/21	ColoCrossing United States
+113.31.27.0/24	牛盾IP段
+5.62.12.0/22	Privax
+89.36.64.0/21	XT Global Networks Ltd
+201.131.124.0/22	HostDime
+192.41.0.0/18	C7 Data Centers
+175.41.192.0/18	aws
+184.170.128.0/20	Netelligent Hosting Services Inc
+107.182.112.0/24	OppoBox
+154.127.51.0/24	Host1Plus
+198.23.152.0/22	ColoCrossing United States
+54.240.230.0/23	aws
+188.226.128.0/18	Digital Ocean
+216.12.192.0/19	ThePlanet.com
+123.249.0.0/16	Wotone
+104.238.128.0/18	Choopa
+109.74.192.0/20	Linode
+198.12.122.0/24	ColoCrossing United States
+5.135.0.0/16	OVH
+178.217.80.0/21	H4Hosting Network
+178.159.96.0/20	ATOMOHOST LLC
+37.46.122.0/24	AltusHost
+107.182.224.0/20	Hosting Services
+5.101.96.0/21	Digital Ocean
+176.227.208.0/21	Redstation
+190.93.240.0/24	百度云加速IP段海外CF版
+91.189.176.0/21	ServeTheWorld
+5.62.28.0/22	Privax
+141.101.134.0/24	PureVPN
+115.28.0.0/16	HiChina Web Solutions (Beijing) Limited China 
+182.150.0.0/24	百度云加速IP段
+207.207.21.0/24	DATAFOUNDRY.COM
+117.20.0.0/20	OzServers
+54.251.0.0/16	aws
+198.12.96.0/20	ColoCrossing United States
+108.174.61.0/24	ColoCrossing United States
+120.41.44.0/24	腾讯云IP段
+104.168.64.0/21	ColoCrossing United States
+96.8.112.0/23	ColoCrossing United States
+119.167.246.0/24	百度云加速IP段
+117.34.28.0/24	百度云加速IP段
+54.239.16.0/20	aws
+64.235.32.0/19	premianet
+70.84.0.0/14	ThePlanet.com
+212.71.232.0/21	Linode
+5.175.153.0/24	Ghostnet
+45.127.92.0/23	HostUS
+139.162.0.0/16	Linode
+66.165.160.0/19	TERRENAP DATA CENTERS
+207.97.192.0/18	Rackspace
+209.133.192.0/19	NOC4Hosts
+91.233.116.0/23	Oy Creanova Hosting Solutions Ltd.
+199.217.112.0/21	Hosting Solutions International
+119.9.0.0/16	Rackspace
+5.189.160.0/20	Contabo
+192.111.128.0/20	Total Server Solutions
+5.175.149.0/24	Ghostnet
+173.208.128.0/17	WholeSale Internet
+112.124.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd. China 
+180.150.128.0/19	Rackspace
+149.255.32.0/21	Swiftway Communications
+120.92.248.0/24	牛盾IP段
+223.6.6.0/24	Hangzhou Alibaba Advertising Co.,Ltd. China 
+204.246.160.0/22	aws
+69.175.0.0/17	SingleHop
+104.221.128.0/17	eSited Solutions
+110.173.208.0/20	HiChina Web Solutions (Beijing) Limited China 
+192.210.136.0/22	ColoCrossing United States
+110.76.0.0/19	Ali Technology Co., Ltd China 
+198.46.140.0/22	ColoCrossing United States
+174.34.164.0/22	Ubiquity
+103.253.146.0/24	Digital Ocean
+5.189.144.0/20	Contabo
+81.4.124.0/22	RamNode
+54.239.128.0/18	aws
+192.210.150.0/23	ColoCrossing United States
+138.128.160.0/19	HostDime
+162.216.46.0/24	Hosting Services Inc
+128.127.104.0/24	AltusHost
+110.34.128.0/17	VPLS INC
+54.222.0.0/19	aws
+198.12.88.0/21	ColoCrossing United States
+107.6.64.0/18	Voxel Dot Net
+69.164.192.0/19	Linode
+104.168.76.0/22	ColoCrossing United States
+54.239.98.0/24	aws
+54.233.128.0/17	aws
+94.249.174.0/24	Ghostnet
+112.29.152.0/24	腾讯云IP段
+54.72.0.0/15	aws
+54.240.202.0/24	aws
+54.239.54.0/23	aws
+188.72.104.0/24	GZ Systems
+5.175.155.0/24	Ghostnet
+66.135.32.0/19	ServerBeach
+192.210.192.0/22	ColoCrossing United States
+173.254.176.0/20	RagingWire Data Centers
+119.84.15.0/24	360网站卫士IP段
+212.124.120.0/21	DigitalOne
+173.45.224.0/19	Rackspace
+198.12.72.0/22	ColoCrossing United States
+54.233.64.0/18	aws
+104.250.160.0/19	Secure Internet
+54.240.197.0/24	aws
+104.207.64.0/19	OppoBox
+54.231.160.0/19	aws
+109.75.164.128/25	WHUK-Dedicated
+173.254.192.0/18	Quadranet
+69.197.128.0/18	WholeSale Internet
+23.111.0.0/18	Ubiquity
+46.137.224.0/19	aws
+104.224.0.0/18	Roya Hosting
+117.34.111.0/24	百度云加速IP段
+54.144.0.0/12	aws
+62.212.64.0/19	Leaseweb
+97.107.128.0/20	Linode
+162.248.220.0/22	Host Virtual
+204.45.0.0/16	FDCServers
+192.200.144.0/20	Reliablehosting.com
+121.199.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd. China 
+5.101.136.0/21	UK Dedicated Servers Limited
+116.31.126.0/24	百度云加速IP段
+61.240.150.0/24	腾讯云IP段
+195.60.76.0/23	Voxility
+180.150.224.0/21	EHOSTIDC
+178.20.156.0/23	Freehost UA
+37.123.114.0/24	UK2
+96.8.126.0/23	ColoCrossing United States
+166.78.0.0/16	Rackspace
+66.175.208.0/20	Linode
+5.152.192.0/19	Redstation
+37.221.160.0/21	Voxility
+103.22.200.0/24	百度云加速IP段海外CF版
+131.72.136.0/24	HostSailor
+205.251.250.0/23	aws
+66.186.32.0/19	Krypt Technologies
+69.4.224.0/20	Hosting Services
+208.82.96.0/21	Server Axis Corporation
+142.54.160.0/19	DataShack
+96.8.114.0/23	ColoCrossing United States
+203.209.250.0/23	Hangzhou Alibaba Advertising Co.,Ltd. China 
+42.96.128.0/17	Alibaba (Beijing) Technology Co., Ltd. China 
+83.170.64.0/19	UK2
+69.16.147.0/24	SecuredConnectivity
+66.155.0.0/17	Peer 1 Dedicated Hosting
+205.251.192.0/19	aws
+205.251.249.0/24	aws
+46.137.128.0/18	aws
+204.236.192.0/18	aws
+5.175.150.0/24	Ghostnet
+193.105.134.0/24	Sweden Dedicated
+112.74.0.0/16	aliyun
+104.238.192.0/18	Versaweb
+177.72.240.0/21	aws
+198.46.248.0/21	ColoCrossing United States
+199.189.104.0/21	Hosting Services, Inc
+176.58.96.0/19	Linode
+184.164.128.0/19	Secured Servers
+198.23.240.0/22	ColoCrossing United States
+87.255.32.0/19	Leaseweb
+173.244.192.0/19	Hosting Services
+43.250.192.0/24	aws
+119.188.14.0/24	百度云加速IP段
+64.41.64.0/18	Hostway Corporation
+176.227.192.0/20	Redstation
+104.168.82.0/23	ColoCrossing United States
+45.58.112.0/20	ReliableSite.Net
+154.127.56.128/25	Host1Plus
+82.221.128.0/19	Advania / Thor Data Center
+198.12.124.0/22	ColoCrossing United States
+104.168.72.0/24	ColoCrossing United States
+122.248.192.0/18	aws
+54.231.254.0/24	aws
+104.255.64.0/21	VolumeDrive
+181.41.198.128/25	Host1PLUS
+107.172.64.0/18	ColoCrossing United States
+180.179.0.0/16	Netmagic Datacenter
+81.28.80.0/20	Redhosting
+50.116.0.0/18	Linode
+159.203.0.0/16	DigitalOcean
+107.172.20.0/22	ColoCrossing United States
+189.1.164.0/24	Maxihost
+104.239.128.0/17	Rackspace
+103.46.143.0/25	GZ Systems
+70.32.46.0/24	Ubiquity
+125.39.6.0/24	腾讯云IP段
+172.80.0.0/17	eSited
+198.37.96.0/19	Vivid Hosting
+209.59.0.0/19	Windstream Hosted Solutions
+216.249.96.0/20	Charlotte Colocation Center
+23.108.0.0/15	Ubiquity
+173.199.64.0/18	Choopa
+87.117.192.0/18	Privax
+198.46.202.0/24	ColoCrossing United States
+37.46.117.0/24	Privax
+43.249.36.0/23	Leaseweb
+70.32.45.0/24	Ubiquity
+151.80.0.0/16	OVH
+123.149.54.0/24	牛盾IP段
+218.60.33.0/24	腾讯云IP段
+64.120.0.0/17	UBIQUITYSERVERS.COM
+74.63.192.0/18	Limestone Networks
+91.233.249.0/24	Voxility
+192.223.10.0/23	VIRTUALMACHINES LLC
+83.149.64.0/18	Leaseweb
+121.127.0.0/19	IP-Converge
+5.175.207.0/24	Ghostnet
+67.207.160.0/19	Colocation America Corporation
+107.190.160.0/20	OppoBox
+108.171.96.0/19	Reliablehosting.com
+206.217.192.0/19	Hosting Services
+89.47.16.0/20	XT Global Networks
+206.217.140.0/23	ColoCrossing United States
+5.196.0.0/16	OVH
+110.173.192.0/20	HiChina Web Solutions (Beijing) Limited China 
+192.41.100.0/23	C7 Data Centers
+206.190.128.0/19	HostingServices/filterbypass.me
+115.124.16.0/22	Hangzhou Alibaba Advertising Co.,Ltd. China 
+54.95.0.0/16	aws
+74.82.160.0/19	Take 2 Hosting
+206.217.132.0/23	ColoCrossing United States
+72.251.192.0/18	Voxel
+192.210.216.0/22	ColoCrossing United States
+5.133.176.0/21	Rapidswitch
+69.42.96.0/19	TERRENAP DATA CENTERS
+188.138.0.0/17	Plusserver
+119.252.188.0/24	VPSNet
+5.175.204.0/24	Ghostnet
+192.161.160.0/19	Quadranet
+92.43.120.0/21	TDC Hosting
+5.62.21.0/24	Privax
+223.6.0.0/16	Hangzhou Alibaba Advertising Co.,Ltd. China 
+199.68.188.0/22	Fogo Data Centers
+89.184.160.0/19	Redhosting
+176.123.0.0/19	ALEXHOST SRL
+50.19.0.0/16	aws
+213.52.128.0/22	Linode
+69.94.0.0/17	OLM
+54.245.0.0/16	aws
+198.23.148.0/24	ColoCrossing United States
+209.58.128.0/20	Leaseweb
+45.124.64.0/24	HostUS
+209.107.196.0/24	SecuredConnectivity
+104.237.128.0/19	Linode
+108.62.0.0/16	Ubiquity
+66.23.224.0/20	Interserver
+198.46.198.0/24	ColoCrossing United States
+146.71.96.0/19	GorillaServers
+216.246.0.0/17	Server Central Network
+128.127.106.0/23	AltusHost
+81.4.104.0/22	RamNode
+199.48.100.0/22	Server Cloud Canada Inc
+54.240.225.0/24	aws
+176.126.236.0/22	VPNbook
+216.158.224.0/20	Interserver
+45.56.148.0/22	ExpressVPN
+178.217.184.0/21	HosTeam Network
+162.248.8.0/22	KW Datacenter
+204.12.0.0/17	HostMySite
+192.175.96.0/19	iWeb
+83.170.96.0/20	UK2.net
+107.172.24.0/21	ColoCrossing United States
+69.64.32.0/19	Hosting Solutions International
+221.204.182.0/24	腾讯云IP段
+54.223.0.0/16	aws
+113.207.39.0/24	腾讯云IP段
+5.62.0.0/22	Privax
+122.143.15.0/24	360网站卫士IP段
+184.171.160.0/20	Secured Servers
+54.239.52.0/23	aws
+185.106.122.0/24	HostSailor
+178.32.0.0/15	OVH
+192.41.64.0/19	C7 Data Centers
+208.94.240.0/21	Joe's Datacenter
+54.231.232.0/21	aws
+192.171.224.0/19	MICFO
+104.168.74.0/23	ColoCrossing United States
+162.244.80.0/22	serverroom
+184.72.128.0/17	aws
+54.202.0.0/15	aws
+23.253.0.0/16	Rackspace
+174.142.0.0/16	iWeb
+185.17.184.0/22	Leaseweb
+223.87.3.0/24	腾讯云IP段
+104.200.16.0/20	Linode
+66.63.160.0/19	Quadranet
+69.36.160.0/19	WestHost
+198.23.208.0/20	ColoCrossing United States
+103.9.76.0/22	VinaHost
+103.246.148.0/23	aws
+108.174.48.0/21	ColoCrossing United States
+23.235.224.0/19	Secured Servers
+192.210.196.0/22	ColoCrossing United States
+108.174.56.0/22	ColoCrossing United States
+66.225.194.0/23	ColoCrossing United States
+106.186.24.0/21	Linode
+54.240.220.0/22	aws
+146.185.144.0/21	Digital Ocean
+199.180.112.0/21	VolumeDrive
+106.185.40.0/21	Linode
+103.242.64.0/22	SpeedyCloud
+222.186.19.0/24	牛盾IP段
+205.251.228.0/22	aws
+88.150.128.0/17	Redstation
+5.101.144.0/21	UK Dedicated Servers Limited
+103.233.80.0/23	VPLS INC - Network Operations Center
+216.104.32.0/20	SingleHop
+104.168.96.0/20	ColoCrossing United States
+198.144.176.0/21	ColoCrossing United States
+104.131.0.0/16	Digital Ocean
+173.245.203.0/24	SecuredConnectivity
+188.72.102.0/24	GZ Systems
+198.46.211.0/24	ColoCrossing United States
+216.185.96.0/19	ThePlanet.com
+5.62.16.0/22	Privax
+54.216.0.0/15	aws
+63.143.32.0/19	Limestone Networks
+176.32.64.0/19	aws
+198.46.192.0/23	ColoCrossing United States
+145.87.224.0/19	DataCenter Fryslan
+155.254.96.0/19	OppoBox
+66.7.192.0/19	HostDime
+54.252.0.0/16	aws
+104.156.224.0/19	Choopa
+212.111.40.0/22	Linode
+188.172.220.0/24	Dedicated Servers in AT
+50.118.128.0/17	EGIHosting
+198.12.123.0/24	ColoCrossing United States
+146.185.152.0/21	Digital Ocean
+198.199.64.0/18	Digital Ocean
+23.94.0.0/15	ColoCrossing
+199.188.102.0/24	ColoCrossing United States
+54.212.0.0/15	aws
+67.213.208.0/20	Hosting Services
+104.152.44.0/22	Voxility
+202.60.64.0/19	DedicatedServers
+206.221.176.0/20	ReliableSite.Net
+199.21.114.0/24	ColoCrossing United States
+146.185.160.0/21	Digital Ocean
+208.167.224.0/19	Choopa
+79.142.74.0/23	AltusHost
+106.185.24.0/21	Linode
+192.34.56.0/21	Digital Ocean
+142.0.32.0/20	VolumeDrive
+107.160.0.0/16	Psychz Networks
+54.240.226.0/24	aws
+54.192.0.0/16	aws
+83.170.112.0/20	UK2.net
+67.231.240.0/20	Turnkey
+199.231.184.0/21	Interserver
+95.138.160.0/20	Rackspace Cloud Servers IP Space
+91.109.16.0/20	Leaseweb
+185.22.192.0/22	Redhosting Network
+62.75.128.0/17	Plusserver
+158.58.168.0/21	Fastserver & eCloud Virtual Datacenter
+167.160.160.0/19	Quadranet
+192.80.8.0/24	Packet Host
+67.229.0.0/16	VPLS
+107.182.121.0/24	OppoBox
+75.127.6.0/23	ColoCrossing United States
+64.145.79.0/24	SecuredConnectivity.net
+103.246.114.0/24	TheGigabit
+79.142.69.0/24	AltusHost
+14.136.136.0/24	牛盾IP段
+209.107.210.0/24	SecuredConnectivity
+104.250.128.0/19	GorillaServers
+95.85.8.0/21	Digital Ocean
+46.182.216.0/21	CJ2 Hosting
+54.240.228.0/23	aws
+198.143.128.0/18	SingleHop
+66.225.232.0/24	ColoCrossing United States
+173.209.192.0/19	Hosted Data Solutions, LLC (HDSL-5)
+136.243.0.0/16	Hetzner Online GmbH
+204.236.128.0/18	aws
+79.174.64.0/20	Hosting Company
+80.243.176.0/20	Redstation
+198.136.48.0/20	HostDime
+46.236.32.0/20	DediPower Managed Hosting Limited
+155.94.128.0/17	Quadranet
+75.127.12.0/23	ColoCrossing United States
+206.191.128.0/18	Internap Network Services
+192.95.0.0/18	OVH OVH SAS,FR
+115.29.0.0/16	HiChina Web Solutions (Beijing) Limited China 
+46.101.128.0/17	Digital Ocean
+98.158.112.0/20	Reliablehosting.com
+192.210.142.0/23	ColoCrossing United States
+107.181.128.0/24	KGO VPS
+198.23.144.0/22	ColoCrossing United States
+91.239.67.0/24	Biznes-Host.pl
+118.31.0.0/17	aliyun
+118.31.0.0/16	aliyun
+101.37.0.0/17	aliyun
+101.37.0.0/16	aliyun
+104.224.2.0/24	Roya Hosting
+47.92.0.0/15	aliyun
+123.57.0.0/16	aliyun
+39.104.0.0/14	aliyun
+66.55.132.128/25	Choopa
+107.190.165.0/24	Oppobox
+39.108.0.0/24	aliyun
+39.108.0.0/17	aliyun
+120.25.136.0/22	aliyun
+120.25.104.0/22	aliyun
+118.31.0.0/24	aliyun
+120.27.128.0/18	aliyun
+192.227.240.0/21	ColoCrossing United States
+39.96.0.0/24	aliyun
+192.227.182.0/23	ColoCrossing United States
+118.190.0.0/24	aliyun
+67.198.128.0/20	Krypt.com
+198.55.96.0/20	Quadranet
+203.107.1.0/24	aliyun
+120.25.111.0/24	aliyun
+104.223.99.0/24	QUADRANET.COM
+31.3.157.0/24	AltusHost
+107.179.100.160/28	megahostreseller
+121.42.64.0/18	aliyun
+110.76.21.0/24	aliyun
+120.27.192.0/18	aliyun
+139.162.0.0/19	Linode
+118.31.128.0/17	aliyun
+121.42.192.0/19	aliyun
+107.190.163.0/24	OppoBox
+114.55.128.0/17	aliyun
+192.227.252.0/22	ColoCrossing United States
+101.37.128.0/17	aliyun
+174.143.168.0/21	Rackspace
+120.76.0.0/15	aliyun
+120.76.0.0/16	aliyun
+104.250.184.0/24	Secure Internet
+45.63.4.0/23	Choopa
+139.162.192.0/19	Linode
+69.197.156.0/27	Wholesale Internet
+104.238.128.0/22	Choopa
+140.205.192.0/18	aliyun
+192.227.181.0/24	ColoCrossing United States
+104.223.136.0/23	Root Level Technology
+123.56.0.0/16	aliyun
+174.139.80.0/20	Krypt.com
+206.123.130.0/24	PureVPN
+104.224.15.0/24	Roya Hosting
+39.104.0.0/15	aliyun
+118.190.0.0/16	aliyun
+216.246.108.0/24	ColoCrossing United States
+118.190.128.0/17	aliyun
+139.196.128.0/17	aliyun
+78.138.112.0/20	Providerservices (Duesseldorf)
+120.25.110.0/24	aliyun
+106.11.0.0/18	aliyun
+112.74.64.0/22	aliyun
+112.126.0.0/16	aliyun
+121.42.224.0/19	aliyun
+121.42.0.0/24	aliyun
+120.78.0.0/15	aliyun
+120.25.64.0/19	aliyun
+81.94.192.0/24	Iomart Hosting
+45.113.40.0/23	aliyun
+45.113.40.0/22	aliyun
+45.113.40.0/24	aliyun
+98.126.40.0/21	Krypt.com
+47.92.0.0/14	aliyun
+192.200.23.0/24	MICFO
+192.227.176.0/22	ColoCrossing United States
+110.173.196.0/24	aliyun
+112.74.128.0/17	aliyun
+112.74.116.0/22	aliyun
+104.243.244.0/24	PureVPN
+101.200.0.0/15	aliyun
+39.106.0.0/15	aliyun
+104.223.0.0/18	Quadranet
+192.227.152.0/22	ColoCrossing United States
+110.75.244.0/22	aliyun
+192.227.140.0/22	ColoCrossing United States
+139.196.0.0/17	aliyun
+192.227.164.0/22	ColoCrossing United States
+106.11.36.0/22	aliyun
+106.11.1.0/24	aliyun
+120.25.112.0/23	aliyun
+119.38.219.0/24	aliyun
+106.11.64.0/19	aliyun
+216.246.109.0/24	ColoCrossing United States
+75.102.27.0/24	ColoCrossing United States
+173.254.252.0/22	QUADRANET.COM
+39.104.0.0/24	aliyun
+120.77.0.0/16	aliyun
+139.129.128.0/17	aliyun
+139.224.128.0/17	aliyun
+192.227.144.0/22	ColoCrossing United States
+121.42.17.0/24	aliyun
+107.190.160.0/24	OppoBox
+110.75.240.0/20	aliyun
+120.27.0.0/17	aliyun
+192.227.136.0/22	ColoCrossing United States
+112.74.0.0/17	aliyun
+106.11.0.0/17	aliyun
+75.102.34.0/24	ColoCrossing United States
+140.205.128.0/18	aliyun
+202.60.90.0/24	DedicatedServers
+23.232.140.0/22	MICFO
+107.190.168.0/24	OppoBox
+120.25.115.0/24	aliyun
+106.11.56.0/21	aliyun
+121.42.0.0/18	aliyun
+192.227.160.0/22	ColoCrossing United States
+192.227.168.0/21	ColoCrossing United States
+204.12.196.96/29	Wholesale Internet
+139.129.0.0/17	aliyun
+140.205.32.0/19	aliyun
+119.42.248.0/21	aliyun
+39.108.128.0/17	aliyun
+120.25.108.0/24	aliyun
+106.11.128.0/17	aliyun
+139.224.0.0/17	aliyun
+112.74.32.0/19	aliyun
+139.224.0.0/16	aliyun
+192.227.236.0/22	ColoCrossing United States
+112.74.68.0/22	aliyun
+39.108.0.0/16	aliyun
+140.205.76.0/24	aliyun
+106.11.48.0/21	aliyun
+103.52.198.0/23	aliyun
+47.92.0.0/24	aliyun
+104.243.253.0/24	PureVPN
+216.246.49.0/24	ColoCrossing United States
+203.209.224.0/19	aliyun
+106.11.32.0/22	aliyun
+110.75.239.0/24	aliyun
+108.171.111.128/25	Black Oak Computers Inc
+110.75.243.0/24	aliyun
+192.227.128.0/21	ColoCrossing United States
+192.227.224.0/21	ColoCrossing United States
+98.126.103.0/24	Krypt.com
+50.118.160.0/25	EGIHosting
+120.27.128.0/17	aliyun
+121.42.128.0/18	aliyun
+192.227.232.0/22	ColoCrossing United States
+192.227.192.0/20	ColoCrossing United States
+75.102.10.0/24	ColoCrossing United States
+101.37.0.0/24	aliyun
+39.100.0.0/14	aliyun
+120.25.0.0/18	aliyun
+192.227.208.0/20	ColoCrossing United States
+192.230.37.0/24	Privax
+112.125.0.0/16	aliyun
+118.190.0.0/17	aliyun
+192.227.184.0/21	ColoCrossing United States
+23.247.10.224/27	Global Frag Networks
+192.227.158.0/24	ColoCrossing United States
+47.94.0.0/15	aliyun
+39.96.0.0/14	aliyun
+75.102.38.0/23	ColoCrossing United States
+120.25.96.0/21	aliyun
+39.96.0.0/13	aliyun
+106.11.0.0/16	aliyun
+192.227.248.0/22	ColoCrossing United States
+103.52.196.0/23	aliyun
+103.52.196.0/22	aliyun
+107.191.36.192/26	Secure Internet
+45.113.42.0/23	aliyun
+114.55.0.0/17	aliyun
+203.107.0.0/24	aliyun
+192.227.180.0/24	ColoCrossing United States
+110.75.236.0/22	aliyun
+120.24.0.0/15	aliyun
+173.254.250.0/23	QUADRANET.COM
+114.55.0.0/16	aliyun
+112.74.120.0/22	aliyun
+103.52.196.0/24	aliyun
+120.55.0.0/16	aliyun
+110.75.242.0/24	aliyun
